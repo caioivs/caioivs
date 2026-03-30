@@ -3,8 +3,9 @@
 ###
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioivs&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioivs&layout=compact&langs_count=7&theme=dark" alt="Linguagens Mais Usadas" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=caioivs&theme=dark&hide_border=true" alt="Estatísticas de Commits do Caio" />
+  
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caioivs&theme=dark" alt="Linguagens mais usadas pelo Caio" />
 </div>
 
 ###
