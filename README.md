@@ -3,17 +3,29 @@
 ###
 
 <div align="center">
- <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=caioivs&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=caioivs&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=caioivs&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=caioivs&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=caioivs&show_icons=true" alt="Estatísticas do GitHub de Caio" />
+  </picture>
+  
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=caioivs&layout=compact&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=caioivs&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioivs&layout=compact" alt="Linguagens mais usadas por Caio" />
+  </picture>
 </div>
 
 ###
@@ -51,5 +63,3 @@
 <br clear="both">
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Snake animation" />
-
-###
