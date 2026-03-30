@@ -3,29 +3,8 @@
 ###
 
 <div align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=caioivs&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=caioivs&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=caioivs&show_icons=true" alt="Estatísticas do GitHub de Caio" />
-  </picture>
-  
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=caioivs&layout=compact&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=caioivs&layout=compact"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioivs&layout=compact" alt="Linguagens mais usadas por Caio" />
-  </picture>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioivs&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioivs&layout=compact&langs_count=7&theme=dark" alt="Linguagens Mais Usadas" />
 </div>
 
 ###
